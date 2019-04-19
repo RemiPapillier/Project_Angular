@@ -4,12 +4,16 @@
     height: 230px;
 }
 
+.navbar-nav h2 h3{
+    padding-top: 3%;
+}
+
 a:hover h3{
     text-shadow: -1px 0 rgb(92, 218, 92), 0 1px rgb(92, 218, 92), 1px 0 rgb(92, 218, 92), 0 -1px rgb(92, 218, 92);
 }
 
 h1{
-    font-size: 22px;
+    font-size: 28px;
 }
 
 h2{
